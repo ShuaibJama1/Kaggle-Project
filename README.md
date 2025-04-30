@@ -48,7 +48,9 @@ The Random Forest model achieved an **accuracy of 81%**, showing promising resul
 - Plotted **bar graphs** for categorical features and **histograms** for numerical features
 - Used **correlation heatmaps** to detect multicollinearity
 - Visualized class distributions and feature relationships
-
+![image](https://github.com/user-attachments/assets/f413a508-7003-4168-b897-5266fe523b17)
+![image](https://github.com/user-attachments/assets/062590cc-aa5d-4c74-b610-8705122e6368)
+![image](https://github.com/user-attachments/assets/38605d8b-22d4-4a23-beb4-a9910836fe7c)
 ---
 
 ##  Machine Learning Model: Random Forest
@@ -63,7 +65,8 @@ The Random Forest model achieved an **accuracy of 81%**, showing promising resul
    - F1-Score
    - AUC (Area Under Curve)
 5. Analyzed feature importances (Top contributing features)
-
+![image](https://github.com/user-attachments/assets/209702e7-b800-4caf-a320-5676572c5e0f)
+![image](https://github.com/user-attachments/assets/69b1bd76-0e63-40f1-966f-4e3b145bfac6)
 ---
 
 ##  Results
