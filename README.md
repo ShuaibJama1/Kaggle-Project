@@ -93,8 +93,9 @@ The Random Forest model achieved an **accuracy of 81%**, showing promising resul
 ---
 # Software Setup: 
 # Required packages:  
-- numpy, pandas  
-- scikit-learn 
-- matplotlib  
-- seaborn
-jupyter
+- Numpy
+- Pandas  
+- Scikit-learn 
+- Matplotlib  
+- Seaborn
+- Jupyter notebook
