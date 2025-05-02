@@ -91,3 +91,10 @@ The Random Forest model achieved an **accuracy of 81%**, showing promising resul
 - Consider ensemble methods or other models for comparison
 
 ---
+# Software Setup: 
+# Required packages:  
+- numpy, pandas  
+- scikit-learn 
+- matplotlib  
+- seaborn
+jupyter
