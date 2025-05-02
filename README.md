@@ -9,7 +9,7 @@ This repository contains an attempt to apply **Random Forest** to predicting hor
 
 The objective of this project is to use medical data to predict health outcomes for horses — specifically, whether they **survived**, were **euthanized**, or **died**. The dataset I got from Kaggle and preprocessing and cleaning.
 
-A **Random Forest** machine learning model was selected due to its robustness to noise and its ability to handle non-linear relationships. Model performance was evaluated using **accuracy**, **precision**, **recall**, and **F1 score** across training, validation, and testing datasets.
+I used a **Random Forest** machine learning model because of it's robustness to noise and its ability to handle non-linear relationships. Model performance was evaluated using **accuracy**, **precision**, **recall**, and **F1 score** across training, validation, and testing datasets.
 
 The Random Forest model achieved an **accuracy of 81%**, showing promising results in predicting equine health outcomes.
 
