@@ -5,7 +5,7 @@ This repository contains an attempt to apply **Random Forest** to predicting hor
 
 ---
 
-##  Abstract
+##  Info
 
 The objective of this project is to use medical data to predict health outcomes for horses — specifically, whether they **survived**, were **euthanized**, or **died**. The dataset was obtained via Kaggle and underwent extensive preprocessing and cleaning.
 
