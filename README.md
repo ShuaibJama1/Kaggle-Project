@@ -1,7 +1,7 @@
 # Kaggle-Project
 # Predicting Horse's Health 
 
-This repository contains an attempt to apply **Random Forest** to predicting horse health outcomes using data from the Kaggle "Predict Health Outcome" (https://www.kaggle.com/competitions/playground-series-s3e22/data?select=train.csv).
+This repository contains my attempt to apply **Random Forest** to predicting horse health outcomes using data from the Kaggle "Predict Health Outcome" (https://www.kaggle.com/competitions/playground-series-s3e22/data?select=train.csv).
 
 ---
 
